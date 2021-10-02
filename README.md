@@ -17,10 +17,6 @@ Short summary on functionality and used technologies.
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
-## Prerequisites
-
-- install node-v8.17.0-x64
-
 ---
 
 ## Minimal Path to Awesome
