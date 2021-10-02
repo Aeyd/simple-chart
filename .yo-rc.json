@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.12.1",
+    "libraryName": "simple-chart",
+    "libraryId": "112921ed-1a20-4ef6-bf68-740ae6a5f0ea",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
