@@ -46,7 +46,7 @@
 
 ## References
 
-- [SPFx Samples] (https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples)
-- [SPFx ChartControls] (https://pnp.github.io/sp-dev-fx-controls-react/controls/ChartControl/)
+- [SPFx Samples](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples)
+- [SPFx ChartControls](https://pnp.github.io/sp-dev-fx-controls-react/controls/ChartControl/)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
-- [SharePoint Framework SPFx Webinar by Andrew Connell] (https://www.youtube.com/watch?v=AO69ziaCxMc)
+- [SharePoint Framework SPFx Webinar by Andrew Connell](https://www.youtube.com/watch?v=AO69ziaCxMc)
