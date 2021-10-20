@@ -37,7 +37,7 @@
 ## Minimal Path to Awesome
 
 - install node-v8.17.0-x64
-- npm install gulp@3.9.1 --global
+- ```npm install gulp@3.9.1 --global```
 - install Visual Studio Code
 - Clone this repository
 - Ensure that you are at the solution folder
