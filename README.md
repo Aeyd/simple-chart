@@ -8,7 +8,8 @@
 - install node-v8.17.0-x64
 - ```npm install gulp@3.9.1 --global```
 - ```npm install yo@3.1.1 --global```
-- ```npm install @microsoft/generator-sharepoint --global```
+- ```npm install @microsoft/generator-sharepoint@1.9.1
+-  --global```
 - create a project folder
 - ```yo @microsoft/sharepoint```
 - run Yeoman setup, target platform **SharePoint 2019 or later**, framework **React**
